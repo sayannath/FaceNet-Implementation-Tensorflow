@@ -2,6 +2,7 @@
 
 #### Face Authentication with Tensorflow, Keras and OpenCV
 
+## How to Use
 
 1. Clone the Repo.
 
@@ -46,3 +47,5 @@ python detect.py [For Windows]
 ```
 10. Happy Coding!
 
+## Developed and Maintained By
+### [Sayan Nath](https://sayannath.biz) 
